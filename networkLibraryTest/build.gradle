@@ -5,6 +5,9 @@ repositories {
 	maven {
 		url 'https://raw.github.com/ark/ark/master/releases/'
 	}
+	maven {
+		url 'https://raw.github.com/ark/ark/master/snapshots/'
+	}
 }
 
 android {
